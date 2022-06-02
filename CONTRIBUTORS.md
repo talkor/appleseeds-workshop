@@ -1,10 +1,8 @@
 # Contributors
 
 Daniel Smith
-
-avishai-peretz
-
+Tofik Saliba
 Shirtol
-
+avishai-peretz
 Benjamin Rotlevy
 
