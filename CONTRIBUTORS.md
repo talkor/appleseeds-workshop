@@ -1,7 +1,7 @@
 # Contributors
 
-
-
+Daniel Smith
+Samer Taha Taha
 Daniel Smith 
 Liat Pardo Grinbaum
 Daniel Smith
