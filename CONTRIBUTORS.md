@@ -1,6 +1,8 @@
 # Contributors
 
 Daniel Smith
+Samer Taha Taha
+Daniel Smith 
 Liat Pardo Grinbaum
 Daniel Smith
 Benny Hassan
@@ -13,4 +15,6 @@ Benjamin Rotlevy
 Yanir Itzhak
 Eden Kricheli ✌🏼
 Itamar Shmaya
+avishai-peretz
 Ofer Tauber
+
