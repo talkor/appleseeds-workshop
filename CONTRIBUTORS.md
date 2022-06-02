@@ -1,3 +1,3 @@
 # Contributors
 
-Daniel Smith
+Daniel Smith Liat Pardo Grinbaum
