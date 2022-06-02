@@ -1,5 +1,11 @@
 # Contributors
 
 Daniel Smith
-Eden Kricheli
+segev klein
+Gil Ben Netanel
+Tofik Saliba
+Shirtol
 Benjamin Rotlevy
+Yanir Itzhak
+Eden Kricheli ✌🏼
+
