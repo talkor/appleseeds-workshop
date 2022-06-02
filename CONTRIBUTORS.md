@@ -1,7 +1,6 @@
 # Contributors
 
 Daniel Smith
-Samer Taha
+Samer Taha Taha
 Shirtol
 Benjamin Rotlevy
-
